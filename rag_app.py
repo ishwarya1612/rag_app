@@ -4,7 +4,7 @@ import google.generativeai as genai
 from PyPDF2 import PdfReader
 
 # Configure Google Gemini API key
-genai.configure(api_key="  ")
+genai.configure(api_key="AIzaSyA8uEUKCDrOfe9i6BzFRt9Pe6v97ZbAxtY")
 
 # Function to read the PDF file
 def read_pdf(file_path):
